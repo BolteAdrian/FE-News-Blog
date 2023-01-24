@@ -6,22 +6,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Register page:
+![image](https://user-images.githubusercontent.com/87446991/214426942-f4623799-ce31-431a-ad2f-cd71de553977.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Login page:
+![image](https://user-images.githubusercontent.com/87446991/214426983-b560e9b4-ad3a-4ac3-9b1c-04d7656b8bd6.png)
 
-## Build
+Home page
+![image](https://user-images.githubusercontent.com/87446991/214427154-4727b1ad-5a34-4749-9a4e-a7cf3c512d18.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Post page
+![image](https://user-images.githubusercontent.com/87446991/214427129-9a427bed-9c6d-4ab1-9c1c-7885b7dfe017.png)
 
-## Running unit tests
+If the user is logged in, then an add post button will appear on the home page at the top right, and the edit and delete options will appear on the pages of a post:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Create new post
+![image](https://user-images.githubusercontent.com/87446991/214427189-1a97a04f-c99f-4fdb-a5c0-7d9b8bfa1d0b.png)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Edit post
+![image](https://user-images.githubusercontent.com/87446991/214427252-a2068e10-5c3d-45c7-8e68-854d201ecaec.png)

@@ -6,6 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+Backend link : https://github.com/BolteAdrian/BE-News-Blog
+
 Register page:
 ![image](https://user-images.githubusercontent.com/87446991/214426942-f4623799-ce31-431a-ad2f-cd71de553977.png)
 

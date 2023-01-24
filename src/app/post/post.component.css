@@ -1,0 +1,17 @@
+.action-post{
+    display: flex;
+    gap: 15px;
+    padding: 1rem;
+}
+
+.back_button{
+    margin: 1rem;
+}
+.container{
+    background: aliceblue;
+    margin-bottom: 15px;
+  }
+
+  .post{
+margin-top: 50px;
+  }

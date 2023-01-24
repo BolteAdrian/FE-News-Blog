@@ -1,0 +1,20 @@
+.new-post{
+    float: right;
+    padding-top: 10px;
+  }
+
+  .container{
+    background: aliceblue;
+    margin-bottom: 15px;
+  }
+
+  .row {
+    margin-left: 0px;
+}
+
+.container_posts{
+    padding: 100px 0 10px 0;
+}
+.read-more{
+    border: 2px solid black;
+}

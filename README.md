@@ -15,15 +15,25 @@ Login page:
 ![image](https://user-images.githubusercontent.com/87446991/214426983-b560e9b4-ad3a-4ac3-9b1c-04d7656b8bd6.png)
 
 Home page
-![image](https://user-images.githubusercontent.com/87446991/214427154-4727b1ad-5a34-4749-9a4e-a7cf3c512d18.png)
+![Screenshot 2023-01-27 235700](https://user-images.githubusercontent.com/87446991/215212292-35a9c9fb-1ce5-462d-a355-2d917f4f3b6d.png)
+
+Home mobile version:
+![Screenshot 2023-01-27 235121](https://user-images.githubusercontent.com/87446991/215212497-e023caeb-8a9c-4455-a890-e450a6400cbc.png)
 
 Post page
-![image](https://user-images.githubusercontent.com/87446991/214427129-9a427bed-9c6d-4ab1-9c1c-7885b7dfe017.png)
+![Screenshot 2023-01-27 235540](https://user-images.githubusercontent.com/87446991/215212379-0d597021-a6d3-48da-a7be-a710bfc7b65f.png)
+
+Post mobile version:
+![Screenshot 2023-01-27 235057](https://user-images.githubusercontent.com/87446991/215212579-14c7ea0a-3ee6-4631-8bc7-c2ba6e13f0b6.png)
 
 If the user is logged in, then an add post button will appear on the home page at the top right, and the edit and delete options will appear on the pages of a post:
 
 Create new post
-![image](https://user-images.githubusercontent.com/87446991/214427189-1a97a04f-c99f-4fdb-a5c0-7d9b8bfa1d0b.png)
+![Screenshot 2023-01-27 235800](https://user-images.githubusercontent.com/87446991/215212663-1e649dea-df19-4816-8c87-43b2b124c580.png)
 
 Edit post
-![image](https://user-images.githubusercontent.com/87446991/214427252-a2068e10-5c3d-45c7-8e68-854d201ecaec.png)
+![Screenshot 2023-01-27 235835](https://user-images.githubusercontent.com/87446991/215212705-43784305-9041-4c74-bf26-82359ae8e581.png)
+
+Delete post
+![Screenshot 2023-01-27 235428](https://user-images.githubusercontent.com/87446991/215212785-b3870bbc-9fe7-4b37-b55e-2a066152c1e3.png)
+

@@ -37,5 +37,6 @@ Edit post
 ![Screenshot 2023-01-27 235835](https://user-images.githubusercontent.com/87446991/215212705-43784305-9041-4c74-bf26-82359ae8e581.png)
 
 Delete post
+
 ![Screenshot 2023-01-27 235428](https://user-images.githubusercontent.com/87446991/215212785-b3870bbc-9fe7-4b37-b55e-2a066152c1e3.png)
 

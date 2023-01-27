@@ -4,7 +4,10 @@
     <a href="/add-post"  class="btn btn-primary" *ngIf="authService.isAuthenticated()" >Add Post</a>
    </div>
   <div class="container_posts">
-    <div class="row" *ngFor="let post of posts | async">
+    <div class="container_post" *ngFor="let post of posts | async">
+      <div class="img_container">
+        <img src={{post.picture}} />
+      </div>
       <div class="blogpost">
         <h6 [innerHTML]="post.category"></h6>
         <h3><a href="/post/{{post.id}}" class="blog-title">{{post.title}}</a></h3>
@@ -14,6 +17,7 @@
         </div>
         <hr>
       </div>
+
       <hr>
     </div>
   </div>

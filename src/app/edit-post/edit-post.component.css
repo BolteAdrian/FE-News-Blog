@@ -14,3 +14,10 @@
     background: aliceblue;
     padding: 10px;
   }
+
+  @media screen and (max-width: 480px) {
+    .back_button {
+      margin-bottom: 10px;
+    }
+  }
+  

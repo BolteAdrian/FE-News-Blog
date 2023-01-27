@@ -1,9 +1,9 @@
 export class PostPayload{
   id: String;
-  content: String;
+  content: String; 
+  title: String;
   short_description: String;
   category : String;
-  title: String;
-  username: String
-  
+  picture : String;
+  username: String;
 }

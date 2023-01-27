@@ -18,12 +18,14 @@ Home page
 ![Screenshot 2023-01-27 235700](https://user-images.githubusercontent.com/87446991/215212292-35a9c9fb-1ce5-462d-a355-2d917f4f3b6d.png)
 
 Home mobile version:
+
 ![Screenshot 2023-01-27 235121](https://user-images.githubusercontent.com/87446991/215212497-e023caeb-8a9c-4455-a890-e450a6400cbc.png)
 
 Post page
 ![Screenshot 2023-01-27 235540](https://user-images.githubusercontent.com/87446991/215212379-0d597021-a6d3-48da-a7be-a710bfc7b65f.png)
 
 Post mobile version:
+
 ![Screenshot 2023-01-27 235057](https://user-images.githubusercontent.com/87446991/215212579-14c7ea0a-3ee6-4631-8bc7-c2ba6e13f0b6.png)
 
 If the user is logged in, then an add post button will appear on the home page at the top right, and the edit and delete options will appear on the pages of a post:
